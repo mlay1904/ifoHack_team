@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1682838457618
+current_stage: None
+description: null
+last_updated_timestamp: 1682838457618
+name: krr
+run_id: 4bf6e3603f3c4d2d9af49684d20dfa66
+run_link: null
+source: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/4bf6e3603f3c4d2d9af49684d20dfa66/artifacts/dlr
+status: READY
+status_message: null
+user_id: null
+version: 6

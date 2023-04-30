@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/982f3fd8fb4f4ff389c7fc7db4afa9c0/artifacts
+end_time: 1682769778269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 982f3fd8fb4f4ff389c7fc7db4afa9c0
+run_name: judicious-lamb-369
+run_uuid: 982f3fd8fb4f4ff389c7fc7db4afa9c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682769763395
+status: 3
+tags: []
+user_id: cjy12

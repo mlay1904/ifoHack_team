@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/9a22b0c495ac4047af59a801675f4e06/artifacts
+end_time: 1682836613421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a22b0c495ac4047af59a801675f4e06
+run_name: masked-quail-982
+run_uuid: 9a22b0c495ac4047af59a801675f4e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682836600009
+status: 3
+tags: []
+user_id: cjy12

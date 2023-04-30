@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/07e4b7ab7640491ab121590bc3c21490/artifacts
+end_time: 1682769793593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e4b7ab7640491ab121590bc3c21490
+run_name: amusing-crab-227
+run_uuid: 07e4b7ab7640491ab121590bc3c21490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682769778359
+status: 3
+tags: []
+user_id: cjy12

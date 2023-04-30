@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/540168cbce934dbea67834c20acb8490/artifacts
+end_time: 1682775052598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 540168cbce934dbea67834c20acb8490
+run_name: overjoyed-elk-666
+run_uuid: 540168cbce934dbea67834c20acb8490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682775029463
+status: 3
+tags: []
+user_id: cjy12

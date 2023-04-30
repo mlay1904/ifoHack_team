@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/c4d1b28ce08040a8aba8a38e32613b40/artifacts
+end_time: 1682845951783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4d1b28ce08040a8aba8a38e32613b40
+run_name: secretive-ray-420
+run_uuid: c4d1b28ce08040a8aba8a38e32613b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682845951624
+status: 4
+tags: []
+user_id: cjy12

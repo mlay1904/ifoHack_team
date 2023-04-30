@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/7073554ed80a46d99a65bd7b4ace1798/artifacts
+end_time: 1682775090066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7073554ed80a46d99a65bd7b4ace1798
+run_name: chill-ape-561
+run_uuid: 7073554ed80a46d99a65bd7b4ace1798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682775077244
+status: 3
+tags: []
+user_id: cjy12

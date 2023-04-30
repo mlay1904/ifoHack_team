@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1682769749582
+current_stage: None
+description: null
+last_updated_timestamp: 1682769749582
+name: iris_forest_classifier
+run_id: 6d4fe59baf2b4a2eb8a8a541bb851cc7
+run_link: null
+source: file:///c:/Users/cjy12/source/repos/final_exercise/solution/model_api/mlruns/0/6d4fe59baf2b4a2eb8a8a541bb851cc7/artifacts/iris
+status: READY
+status_message: null
+user_id: null
+version: 2
